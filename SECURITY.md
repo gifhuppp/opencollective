@@ -49,6 +49,7 @@ In case you really need to test on a live environment, we provide staging server
 ### Out-of-scope features
 
 - Private organizations: currently being tested internally, we will not offer bounties until the feature is fully released and tested on our side.
+- OpenSearch: only available to priviledged users for now.
 
 ## Contact
 
