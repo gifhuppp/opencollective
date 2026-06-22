@@ -1,5 +1,8 @@
 # Security Policy
 
+> [!WARNING]
+> Due to limited team capacity, we are pausing our bounty program from **July 1st to August 31th 2026**. Issues reported during this period will not be replied to, and will not be elligible for bounties.
+
 We believe that no technology is perfect and that working with skilled security researchers
 is crucial in identifying weaknesses.
 
@@ -62,7 +65,10 @@ In case you really need to test on a live environment, we provide staging server
 
 Non-compliant reports will be ignored.
 
-```
+<details>
+  <summary>PGP key</summary>
+
+  ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQGNBF1uYTMBDACtKuBUOuyeZ98L9F4C3TQRyOhW2AeeFGiu5ViXP0zWUiJPz5DU
@@ -106,7 +112,12 @@ wf+ESlENix2p4LJ8BZLU/D/eaEugQL8LXW+KZVDXyCMwlCA4
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
+</details>
+
+
 ## Rewards
+
+⚠️ As per the warning above, we are pausing our bounty program from **July 1st to August 31th 2026**. Issues reported during this period will not be replied to, and will not be elligible for bounties.
 
 | Project     | Type            | Security requirement | Low   | Medium | High  | Critical |
 | ----------- | --------------- | -------------------- | ----- | ------ | ----- | -------- |
@@ -116,7 +127,7 @@ wf+ESlENix2p4LJ8BZLU/D/eaEugQL8LXW+KZVDXyCMwlCA4
 | Images      | API             | ++                   | \$60  | \$150  | \$300 | \$600    |
 | REST        | API             | ++                   | \$60  | \$150  | \$300 | \$600    |
 
-Issues that we categorize as "Minimal" severity are not elligible for bounties.
+Issues that we categorize as "Minimal" severity are not elligible for bounties. 
 
 Note: we are not able to pay bounties to people based in countries sanctioned by the United States, or countries where US sanctions are so widespread that our payment processors no longer serve them.
 
