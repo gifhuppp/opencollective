@@ -28,6 +28,7 @@ Only those who meet the following eligibility requirements may receive a monetar
 - You must wait for the issue to be fully fixed before exposing it publicly.
 - There must be proof that, given realistic processing power and time, an exploit is possible.
 - When using AI, you must manually review that the report you're submitting is correct. Repeated offense of this rule will lock you out of our bounty program.
+- Each reporter can only submit up to 3 reports a week. Make sure to report the most severe vulnerabilities first.
 
 ## Scope
 
